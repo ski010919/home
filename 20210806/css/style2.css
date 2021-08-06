@@ -42,7 +42,7 @@ body{
  .sec2st img{position: absolute;right: -34px;top: 2px;}
 
  /* sec3st */
- .sec3st{width: 980px;margin: 0 auto;}
+ .sec3st{width: 980px;margin: 0 auto;margin-bottom: 50px;}
  .sec3st li{
      float: left;width: 310px;margin-right: 25px;
      border: 1px solid #e5e5e5; padding: 18px;
@@ -68,7 +68,7 @@ body{
 .footertxt li{float: left;color: #cccccc;}
 .footertxt li>p{
     display: block;text-align: center;line-height: 14px;
-    padding: 14px;font-size: 12px;position: relative;font-weight: bold;;
+    padding: 14px;font-size: 12px;position: relative;font-weight: bold;padding-left: 0;
 }
 .footertxt li>p:after{
     content: ""; display: block;
